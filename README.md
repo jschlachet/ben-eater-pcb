@@ -10,5 +10,5 @@ made some personal modifications, and then designed a PCB for it. This board has
 been produced at JLCPCB and successfully ran a Hello World application.
 
 
-![pcb board image](images/board-front.png) "pcb board front")
+![pcb board image](images/board-front.png "pcb board front")
 
